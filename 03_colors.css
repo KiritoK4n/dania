@@ -1,0 +1,24 @@
+.color-1{
+    color: darkred;
+}
+
+/* RGB */
+/* 00 - ff */
+.color-2{
+    color: #4b0082;
+    /* color: #ffffff (Белый цвет) */
+}
+
+.color-3{
+    color: #ddd;
+}
+
+/* 0 - 255 */
+.color-4{
+    color: rgb(255, 0 , 255);
+    /* opacity: 0.2; */
+}
+
+.color-5 {
+    color: rgba(150, 0, 0, 1)
+}
